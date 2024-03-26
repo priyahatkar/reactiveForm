@@ -1,0 +1,13 @@
+
+
+form{
+    // border: 1px solid #ccc;
+    padding: 25px;
+    box-shadow: 3px 3px 22px 1px #ccc;
+    .form-control{
+        border: none;
+        border-bottom: 1px solid #000;
+        border-radius: 0%;
+        box-shadow: none;
+    }
+}
